@@ -29,10 +29,10 @@ Você pode visualizar o projeto de duas maneiras:
 
 ### 🔗 Acesso Online
 
-[👉 Clique aqui para ver o projeto rodando](https://seu-usuario.github.io/seu-repositorio/)
+[👉 Clique aqui para ver o projeto rodando](https://github.com/RafaFrauzino/Projeto-We-Care/tree/main)
 
 ### 💾 Rodar localmente
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/RafaFrauzino/Projeto-We-Care/tree/main
