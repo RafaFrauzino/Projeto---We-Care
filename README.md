@@ -7,7 +7,7 @@
 ## 🖼️ Prévia do Projeto
 
 <p align="center">
-  <img src="caminho/para/imagem-preview.png" alt="Prévia do site" width="80%">
+  <img src="https://github.com/RafaFrauzino/Projeto-We-Care/blob/main/assets/Imagem%20Responsiva%20-%20We%20Care.jpg?raw=true" alt="Prévia do site" width="80%">
 </p>
 
 ## 📌 Sobre o Projeto
