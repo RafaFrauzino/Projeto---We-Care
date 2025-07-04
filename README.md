@@ -14,7 +14,7 @@
 
 Este projeto foi desenvolvido com foco em práticas de HTML e CSS. A proposta é criar uma interface responsiva, moderna e com boa experiência para o usuário.
 
-> O projeto serve como prática para estruturar páginas web com boas práticas de código e organização.
+
 
 ## 🚀 Tecnologias Utilizadas
 
