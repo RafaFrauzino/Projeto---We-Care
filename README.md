@@ -30,7 +30,7 @@ Você pode visualizar o projeto de duas maneiras:
 
 ### 🔗 Acesso Online
 
-[👉 Clique aqui para ver o projeto rodando](https://github.com/RafaFrauzino/Projeto-We-Care/tree/main)
+[👉 Clique aqui para ver o projeto rodando](https://rafafrauzino.github.io/Projeto-We-Care/)
 
 ### 💾 Rodar localmente
 
