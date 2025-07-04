@@ -3,7 +3,8 @@
 <br>
 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido no curso do <a href="https://rodolfomori.com.br/Devclub>  foco em práticas de HTML e CSS. A proposta é criar uma interface responsiva, moderna e com boa experiência para o usuário.
+- Projeto desenvolvido durante o curso do **[DevClub](https://rodolfomori.com.br/devclub)** com foco em práticas de HTML e CSS. A proposta é criar uma interface responsiva, moderna e com boa experiência para o usuário.
+
 
 
 <br>
@@ -22,18 +23,6 @@ Este projeto foi desenvolvido no curso do <a href="https://rodolfomori.com.br/De
   <img src="https://github.com/RafaFrauzino/Projeto-We-Care/blob/main/assets/Imagem%20Responsiva%20-%20We%20Care.jpg?raw=true" alt="Prévia do site" width="80%">
 </p>
 
-## 📌 Sobre o Projeto
-
-Este projeto foi desenvolvido com foco em práticas de HTML e CSS. A proposta é criar uma interface responsiva, moderna e com boa experiência para o usuário.
-
-
-
-## 🚀 Tecnologias Utilizadas
-
-- ![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-- ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-- ✅ Responsividade com media queries
-- ✅ Fonte customizada com Google Fonts (opcional)
 
 ## 💻 Como visualizar o projeto
 
